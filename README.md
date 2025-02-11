@@ -1,2 +1,2 @@
-# Quality-Assurance-Entregav-l
+# Quality-Assurance-Entregavel
 Entrega de atividade 
